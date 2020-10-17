@@ -1,8 +1,3 @@
-// Programa para compressão de vídeos automatizado utilizando o ffmpeg
-
-// Comando para ativar a conversão: node index.js --quality valor_qualidade --input-directory
-// path_do_diretorio_entrada --output-directory path_do_diretorio_saida --videos lista_de_videos
-
 const path = require('path');
 const fs = require('fs');
 const { spawn } = require('child_process');
