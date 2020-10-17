@@ -1,0 +1,11 @@
+{
+  "name": "ffmpeg-process-automation",
+  "version": "1.0.0",
+  "description": "Project in order to automate video editing processes using FFmpeg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "José Gustavo",
+  "license": "MIT"
+}
